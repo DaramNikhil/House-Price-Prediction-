@@ -1,2 +1,2 @@
 # House-Price-Prediction-
-Boston House price Prediction 
+House price Prediction 
